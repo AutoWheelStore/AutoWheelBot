@@ -6,7 +6,7 @@ import asyncio, os
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 async def start(msg: Message):
-    await msg.answer("🚗 Бот подбора дисков и шин запущен")
+    await msg.answer("🌍 Бот с глобальной базой авто запущен")
 
 async def main():
     bot = Bot(BOT_TOKEN)

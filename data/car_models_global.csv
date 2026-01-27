@@ -1,0 +1,156 @@
+brand,model,year_start,year_end
+Toyota,Corolla,1990,2025
+Toyota,Camry,1990,2025
+Toyota,RAV4,1990,2025
+Toyota,Land Cruiser,1990,2025
+Toyota,Hilux,1990,2025
+Toyota,Prado,1990,2025
+Toyota,Yaris,1990,2025
+Toyota,Avalon,1990,2025
+Toyota,Highlander,1990,2025
+Volkswagen,Golf,1990,2025
+Volkswagen,Passat,1990,2025
+Volkswagen,Tiguan,1990,2025
+Volkswagen,Touareg,1990,2025
+Volkswagen,Polo,1990,2025
+Volkswagen,Jetta,1990,2025
+Volkswagen,Arteon,1990,2025
+Volkswagen,ID.4,1990,2025
+BMW,1 Series,1990,2025
+BMW,2 Series,1990,2025
+BMW,3 Series,1990,2025
+BMW,4 Series,1990,2025
+BMW,5 Series,1990,2025
+BMW,7 Series,1990,2025
+BMW,X1,1990,2025
+BMW,X3,1990,2025
+BMW,X5,1990,2025
+BMW,X6,1990,2025
+BMW,X7,1990,2025
+Mercedes-Benz,A-Class,1990,2025
+Mercedes-Benz,B-Class,1990,2025
+Mercedes-Benz,C-Class,1990,2025
+Mercedes-Benz,E-Class,1990,2025
+Mercedes-Benz,S-Class,1990,2025
+Mercedes-Benz,GLA,1990,2025
+Mercedes-Benz,GLC,1990,2025
+Mercedes-Benz,GLE,1990,2025
+Mercedes-Benz,GLS,1990,2025
+Audi,A3,1990,2025
+Audi,A4,1990,2025
+Audi,A6,1990,2025
+Audi,A8,1990,2025
+Audi,Q2,1990,2025
+Audi,Q3,1990,2025
+Audi,Q5,1990,2025
+Audi,Q7,1990,2025
+Audi,Q8,1990,2025
+Ford,Fiesta,1990,2025
+Ford,Focus,1990,2025
+Ford,Mondeo,1990,2025
+Ford,Mustang,1990,2025
+Ford,Explorer,1990,2025
+Ford,Edge,1990,2025
+Ford,F-150,1990,2025
+Ford,Ranger,1990,2025
+Chevrolet,Spark,1990,2025
+Chevrolet,Cruze,1990,2025
+Chevrolet,Malibu,1990,2025
+Chevrolet,Camaro,1990,2025
+Chevrolet,Tahoe,1990,2025
+Chevrolet,Suburban,1990,2025
+Chevrolet,Silverado,1990,2025
+Honda,Civic,1990,2025
+Honda,Accord,1990,2025
+Honda,CR-V,1990,2025
+Honda,HR-V,1990,2025
+Honda,Pilot,1990,2025
+Honda,Fit,1990,2025
+Hyundai,i10,1990,2025
+Hyundai,i20,1990,2025
+Hyundai,Elantra,1990,2025
+Hyundai,Sonata,1990,2025
+Hyundai,Tucson,1990,2025
+Hyundai,Santa Fe,1990,2025
+Hyundai,Palisade,1990,2025
+Kia,Picanto,1990,2025
+Kia,Rio,1990,2025
+Kia,Ceed,1990,2025
+Kia,Optima,1990,2025
+Kia,Sportage,1990,2025
+Kia,Sorento,1990,2025
+Kia,Telluride,1990,2025
+Nissan,Micra,1990,2025
+Nissan,Juke,1990,2025
+Nissan,Qashqai,1990,2025
+Nissan,X-Trail,1990,2025
+Nissan,Pathfinder,1990,2025
+Nissan,Patrol,1990,2025
+Nissan,GT-R,1990,2025
+Mazda,2,1990,2025
+Mazda,3,1990,2025
+Mazda,6,1990,2025
+Mazda,CX-3,1990,2025
+Mazda,CX-5,1990,2025
+Mazda,CX-9,1990,2025
+Lexus,IS,1990,2025
+Lexus,ES,1990,2025
+Lexus,GS,1990,2025
+Lexus,RX,1990,2025
+Lexus,NX,1990,2025
+Lexus,LX,1990,2025
+Porsche,911,1990,2025
+Porsche,Cayenne,1990,2025
+Porsche,Macan,1990,2025
+Porsche,Panamera,1990,2025
+Porsche,Taycan,1990,2025
+Volvo,S40,1990,2025
+Volvo,S60,1990,2025
+Volvo,S90,1990,2025
+Volvo,XC40,1990,2025
+Volvo,XC60,1990,2025
+Volvo,XC90,1990,2025
+Skoda,Fabia,1990,2025
+Skoda,Octavia,1990,2025
+Skoda,Superb,1990,2025
+Skoda,Karoq,1990,2025
+Skoda,Kodiaq,1990,2025
+Renault,Clio,1990,2025
+Renault,Megane,1990,2025
+Renault,Talisman,1990,2025
+Renault,Duster,1990,2025
+Renault,Koleos,1990,2025
+Peugeot,208,1990,2025
+Peugeot,308,1990,2025
+Peugeot,408,1990,2025
+Peugeot,3008,1990,2025
+Peugeot,5008,1990,2025
+Fiat,Panda,1990,2025
+Fiat,500,1990,2025
+Fiat,Tipo,1990,2025
+Fiat,Doblo,1990,2025
+Jeep,Renegade,1990,2025
+Jeep,Compass,1990,2025
+Jeep,Cherokee,1990,2025
+Jeep,Grand Cherokee,1990,2025
+Jeep,Wrangler,1990,2025
+Land Rover,Discovery,1990,2025
+Land Rover,Discovery Sport,1990,2025
+Land Rover,Range Rover,1990,2025
+Land Rover,Range Rover Sport,1990,2025
+Land Rover,Defender,1990,2025
+Mitsubishi,Lancer,1990,2025
+Mitsubishi,Outlander,1990,2025
+Mitsubishi,ASX,1990,2025
+Mitsubishi,Pajero,1990,2025
+Mitsubishi,Eclipse Cross,1990,2025
+Subaru,Impreza,1990,2025
+Subaru,Legacy,1990,2025
+Subaru,Outback,1990,2025
+Subaru,Forester,1990,2025
+Subaru,XV,1990,2025
+Tesla,Model S,1990,2025
+Tesla,Model 3,1990,2025
+Tesla,Model X,1990,2025
+Tesla,Model Y,1990,2025
+Tesla,Cybertruck,1990,2025
